@@ -12,6 +12,8 @@ body{
 p{
 	text-align: center;
 	color: darkslategray
+	word-spacing: 30px;
+}
 ul {
 	display: block;
 	color: white;
