@@ -8,3 +8,14 @@ h1{
 body{
 	background-color: lightblue;
 }
+
+p{
+	text-align: center;
+	color: darkslategray
+ul {
+	display: block;
+	color: white;
+	text-align: center;
+	
+	
+}
