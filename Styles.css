@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css?family=Sunflower');
+body{
+	background-color: #80d4ff;
+	margin:0px;
+	padding:9px;
+	border:8px solid #000000;
+}
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 18px;
+}
+
+h2{
+	text-align: center;
+	margin-bottom: 30px;
+	border-radius: 8px;
+
+}
+p{
+	text-align: center;
+	font-size: 15px;
+	font-weight: 550;
+	font-family: 'Ubuntu', sans-serif;
+	border-style: ridge;
+	padding: 10px;
+	border-width: 2px;
+	border-radius: 8px;
+
+}
+
+h1{
+	font-size: 15px;
+	font-weight: 800;
+	text-align: center;
+	border-style: groove;
+	font-family: 'Ubuntu', sans-serif;
+	padding: 10px;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 25px;
+	border-radius: 12px;
+
+}
+
+.btn-group .button{
+	cursor: pointer;
+	padding: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	border: bold;
+	font-weight: bold;
+	font-weight: 20px;
+	text-decoration-color: black;
+	border-radius: 16px;
+	margin-top: 20px;
+}
+.btn-group{
+	text-align: center;
+}
+.p1{
+	margin: 40px 800px 50px 200px;
+}
+.p2{
+	margin: 10px 200px 100px 800px;
+}
+.p3{
+	margin: 10px 800px 50px 200px;
+}
+.y2p1{
+	margin: 20px 200px 50px 800px;
+}
+.y2p2{
+	margin: 40px 800px 50px 200px;
+}
+.y2p3{
+	margin: 10px 200px 50px 800px;
+}
+.y2p4{
+	margin: 10px 800px 50px 200px;
+}
