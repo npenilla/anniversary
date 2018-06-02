@@ -95,6 +95,20 @@ p{
 	margin-right:300px;
 	font-size: 20px;
 	align-items:center;
+	box-sizing: content-box;
+	display: block;
+	width: 250px;
+	height:auto;
+	border-style: ridge;
+	border-width: 2px;
+	border-radius: 14px;
+	background-color: #80d4ff;
+	padding-top: 10px;
+	padding-left: 35px;
+	padding-right: 35px;
+	padding-bottom: 25px;
+	text-align: center;
+
 }
 .h_0{
 	text-align: center;
@@ -104,6 +118,20 @@ p{
 	margin-right:300px;
 	font-size: 20px;
 	align-items:center;
+	box-sizing: content-box;
+	display: block;
+	width: 250px;
+	height:auto;
+	border-style: ridge;
+	border-width: 2px;
+	border-radius: 14px;
+	background-color: #80d4ff;
+	padding-top: 10px;
+	padding-left: 35px;
+	padding-right: 35px;
+	padding-bottom: 25px;
+	text-align: center;
+
 }
 .hometext{
 	box-sizing: content-box;
