@@ -103,10 +103,10 @@ p{
 	border-width: 2px;
 	border-radius: 14px;
 	background-color: #80d4ff;
-	padding-top: 10px;
-	padding-left: 35px;
-	padding-right: 35px;
-	padding-bottom: 25px;
+	padding-top: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
 	text-align: center;
 
 }
@@ -120,16 +120,15 @@ p{
 	align-items:center;
 	box-sizing: content-box;
 	display: block;
-	width: 250px;
+	width: 50px;
 	height:auto;
 	border-style: ridge;
-	border-width: 2px;
-	border-radius: 14px;
-	background-color: #80d4ff;
-	padding-top: 10px;
-	padding-left: 35px;
-	padding-right: 35px;
-	padding-bottom: 25px;
+	border-width: 3px;
+	border-radius: 20px;
+	padding-top: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
 	text-align: center;
 
 }
